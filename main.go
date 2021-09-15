@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("B")
 	fmt.Println("F")
 	fmt.Println("G")
+	fmt.Println("C")
 }
